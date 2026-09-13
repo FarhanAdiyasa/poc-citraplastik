@@ -1,0 +1,58 @@
+{
+  "url": "http://citraplastik.com/",
+  "title": "PT Citra Plastik Makmur – Plastic Injection",
+  "metaDesc": "",
+  "bodyBg": "#000000",
+  "isDark": true,
+  "archetype": "industrial-technical",
+  "theme": "dark",
+  "navServices": [
+    "PT Citra Plastik Makmur",
+    "HOME & ABOUT US",
+    "CERTIFICATION",
+    "AWARDS",
+    "PRODUCT",
+    "MATERIAL EXPERIENCE",
+    "COMMITMENT TO SUSTAINABILITY",
+    "E-GATHERING",
+    "FOUR WHEELS",
+    "TWO WHEELS"
+  ],
+  "paragraphs": [
+    "Having more than 20 years of experience in plastic injection industry, our Director Mr Teguh Nurdin started to develop Suzuki motorcycle’s mirror in 1997.",
+    "Our VA/VE ideas have brought significant design simplification. For instance, we simplify three models of clamp wiring harness by using only one mold.",
+    "As a result, CPM gains trust from our customers and has grown to supply various plastic parts with 55 injection machines, ranging from 40 to 850 ton.",
+    "Jl. Jababeka XIV A, Blok J4F Kawasan Industri Jababeka 1 Desa Harjamekar Kec. Cikarang Utara, Kabupaten Bekasi",
+    "Jl. Jababeka G, Blok CC No.6 – 7 Kawasan Industri Jababeka 1 Desa Pasir Gombong, Lemah Abang Bekasi 17530",
+    "Jl. Jababeka XIB, Blok K No.10A Kawasan Industri Jababeka 1 Desa Harjamekar Kec. Cikarang Utara, Kabupaten Bekasi",
+    "Monitoring Loading Mesin Produksi Tahun 2026",
+    "We are trusted by various national and international companies from automotive, manufacturing, and industrial sectors.",
+    "Copyright © PT. CITRA PLASTIK MAKMUR 2018"
+  ],
+  "h1": "PT Citra Plastik Makmur",
+  "screenshot": "/home/ubuntu/pocs/citraplastik/lead_original.png",
+  "scrapedAssets": {
+    "products": [],
+    "clients": [],
+    "facilities": [
+      {
+        "url": "https://www.citraplastik.com/wp-content/uploads/2026/03/plant1ab.png",
+        "path": "/scraped_assets/facilities/plant1ab.png",
+        "alt": "plant1ab HOME & ABOUT US"
+      },
+      {
+        "url": "https://www.citraplastik.com/wp-content/uploads/2026/03/plant21.png",
+        "path": "/scraped_assets/facilities/plant21.png",
+        "alt": "plant21 HOME & ABOUT US"
+      },
+      {
+        "url": "https://www.citraplastik.com/wp-content/uploads/2026/03/plant3.png",
+        "path": "/scraped_assets/facilities/plant3.png",
+        "alt": "plant3 HOME & ABOUT US"
+      }
+    ],
+    "awards": [],
+    "general": []
+  },
+  "success": true
+}
